@@ -3,7 +3,7 @@
 # Set thresholds
 CPU_THRESHOLD=80.0
 MEM_THRESHOLD=90.0
-ALERT_EMAIL="jmuli866@gmail.com"
+ALERT_EMAIL="myName@email.com"
 
 # Get current timestamp
 timestamp=$(date "+%Y-%m-%d %H:%M:%S")
